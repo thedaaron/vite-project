@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "dbaeumer.vscode-eslint",
+    "vscode-icons-team.vscode-icons",
+    "vivaxy.vscode-conventional-commits",
+  ]
+}
